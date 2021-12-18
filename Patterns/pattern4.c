@@ -1,18 +1,18 @@
 /*
-*****
-*****
-*****
-*****
-*****
+55555
+44444
+33333
+22222
+11111
 */
 #include<stdio.h>
 int main()
 {
-    for(int i=1;i<=5;i++)
+    for(int i=5;i>=1;i--)
     {
         for(int j=1;j<=5;j++)
         {
-            printf("* ");
+            printf("%d ",i);
         }
         printf("\n");
     }
