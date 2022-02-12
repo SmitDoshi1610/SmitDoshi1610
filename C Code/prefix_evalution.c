@@ -57,8 +57,8 @@ void prefix_evalution(char ch[],int n)
 int main()
 {
     char ch[100];
-    printf("Enter the Postfix String : ");
-    scanf("%s",&ch);
+    printf("Enter the Prefix String : ");
+    scanf("%s",ch);
     int n;
     n = strlen(ch);
     prefix_evalution(ch,n);
