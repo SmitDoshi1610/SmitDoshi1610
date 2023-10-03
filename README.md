@@ -28,3 +28,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smitdoshi1610&show_icons=true&locale=en" alt="smitdoshi1610" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smitdoshi1610&theme=default" alt="smitdoshi1610" /></p>
+
+[![An image of @smit1610's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/smit1610)](https://holopin.io/@smit1610)
+
